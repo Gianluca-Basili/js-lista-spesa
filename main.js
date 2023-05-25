@@ -1,0 +1,1 @@
+let  lista = ['uova', 'guanciale','pepe','pecorino','parmiggiano']
